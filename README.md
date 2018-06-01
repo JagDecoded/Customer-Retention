@@ -41,3 +41,5 @@ __user retention.png__ Heat map for our data
 
 
 ![Customer Retention graph from Week 1- Week 10](https://github.com/JagDecoded/Customer-Retention/blob/master/user%20retention.png)
+
+refference: http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
