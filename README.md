@@ -30,3 +30,14 @@ We Trying to build something like this first then visualize:
 
 
 ### File Reference
+
+__order data.xlsx__ input data
+
+__Customer Retention Alanlysis.ipynb__ Code file (Jupyter Notebook)
+
+__retention.csv__ Output file 
+
+__user retention.png__ Heat map for our data 
+
+
+![Customer Retention graph from Week 1- Week 10](https://github.com/JagDecoded/Customer-Retention/blob/master/user%20retention.png)
